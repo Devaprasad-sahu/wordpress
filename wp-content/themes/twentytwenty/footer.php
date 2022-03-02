@@ -30,6 +30,7 @@
 
 						<p class="powered-by-wordpress">
 							<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentytwenty' ) ); ?>">
+								<?php _e( 'Powered by WordPress Varun CI/CD ', 'twentytwenty' ); ?>
 								<?php _e( 'Powered by WordPress Varun CI/CD for deva story', 'twentytwenty' ); ?>
 							</a>
 						</p><!-- .powered-by-wordpress -->
